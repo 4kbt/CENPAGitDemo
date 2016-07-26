@@ -65,6 +65,9 @@ Working with others
 	git push
 	git pull
 
+Things I haven't covered, but you can figure out:
+	Linking a new repository with a remote repo.
+
 Advanced topics:
 	git revert
 	branching from an old commit
