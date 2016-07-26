@@ -1,0 +1,79 @@
+Topics:
+
+Plan:
+	Intro
+	Using git for versioning
+	Branching
+	Interacting with a remote server
+	
+
+Point out that versioning can be better
+
+Quick historical context
+	CVS/Subversion - centralized, does versioning
+	Bitkeeper - distributed
+	Git/Mercurial - the modern paradigm
+
+Verify that everyone has a functioning git install
+
+Git commands
+	init
+	status
+	stage
+	commit
+	log
+
+Make a few commits
+	log
+
+Good commit messages
+
+How does Git work?
+	Linked list
+	SHA hash
+	Tracks changes, not files
+
+	Not good for binary files
+
+Branching:
+	git branch
+	git checkout
+
+Show a branching diagram
+	
+Make a new branch
+	make new commits
+
+Switch to old branch
+	make changes
+	make new file
+
+Switch to new branch
+	make another change
+
+Switch to old branch
+	merge.
+	
+What makes Git special?
+	Distributed - everyone has a copy, always
+	Merging is fast, frequently magical
+	Git is fast, not always friendly
+
+Working with others
+	git clone
+	Make a change
+	git push
+	git pull
+
+Advanced topics:
+	git revert
+	branching from an old commit
+	'everything is just git rebase'
+	git submodules
+
+"How do I make things better when things break?"
+	Push to remote often
+	Understand the simple commands and the datastructure
+	Slow down, think.
+	Google.
+	
