@@ -3,5 +3,6 @@ This is an incomplete list of awesomeness
 Mitchell Feigenbaum
 Richard Kresser
 John Michell
+Luke Kippenbrock
 Ana Malagon
 Matt Kallander
