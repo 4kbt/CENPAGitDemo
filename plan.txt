@@ -22,6 +22,7 @@ Git commands
 	stage
 	commit
 	log
+	diff
 
 Make a few commits
 	log
@@ -30,6 +31,7 @@ Good commit messages
 
 git rm
 git mv
+.gitignore
 
 How does Git work?
 	Linked list
